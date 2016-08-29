@@ -42,3 +42,9 @@ syllabus, proposal: practical approach, but with deep understanding (not just tr
 - Keras.io High-level Python library using theano and tensorflow, also CV
 
 - Caffe http://caffe.berkeleyvision.org/
+
+
+## Ideas for Projects
+
+- self-learning Mario or Atari games;
+  homebrew: https://www.youtube.com/watch?v=qv6UVOQ0F44; DeepMind: https://www.youtube.com/watch?v=V1eYniJ0Rnk, paper https://arxiv.org/pdf/1312.5602v1.pdf
