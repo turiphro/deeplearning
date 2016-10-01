@@ -76,9 +76,11 @@ if __name__ == '__main__':
         frame = cv2.adaptiveThreshold(frame, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, # threshold
                                       cv2.THRESH_BINARY, 201, 25)
         data = cv2.resize(frame, (28, 28), interpolation=cv2.INTER_AREA) # scale down
-        data = 1 - (data % 255) # to [0,1] range, black is background
+        #data = np.round(1 - (data / 255.0)) # to {0,1} set, black is background
+        data = 1.0 * (data < 230) # threshold (binary input) and invert
         cv2.imshow("Input frame", frame)
-        cv2.imshow("Input data", data)
+        cv2.imshow("Input data",
+                   cv2.resize(data, frame.shape[:2], interpolation=cv2.INTER_NEAREST))
         #cv2.waitKey()
         data = np.reshape(data, (784, 1))
 
