@@ -1,17 +1,24 @@
-# deeplearning
-Place to organise resources around our **Deep Learning track / hackdays** in Amsterdam.
+deeplearning
+============
+We're doing a biweekly study group about **Deep Learning** in Amsterdam: 1 evening (2-3h) every other week. It's for a group of people with strong CS + LA background, pref. some familiarity with machine learning and neural network basics.
 
 
-## Practical matters (proposal)
+Syllabus
+--------
+| Session  | Theory                  | Coding                   |
+| -------- | ----------------------- | ------------------------ |
+| *week 1* | *intro talk, NN&DL ch1* | *ch1 coding assignments* |
+| *week 2* | *NN&DL^ ch2*            | *webcam demo*            |
+| week 3   | NN&DL^ ch3              | sk-learn neural nets     |
+| week 4   | NN&DL^ ch4 + ch5        | present project ideas    |
+| week 5   | NN&DL^ ch6              | intro **TensorFlow**     |
+| week 6   | papers                  | TensorFlow (projects)    |
+| week 7   | papers, projects prgres | TensorFlow (projects)    |
+| week 8   | ...                     | ...                      |
+| beyond   | DL$ ch6, ch9-ch12       | Hinton course (MATLAB)   |
 
-subject: Deep Learning
-
-study group: 1 evening (2-3h) every (other) week
-
-who: need strong CS + LA, pref. some familiarity with machine learning and neural network basics; ideal study groups are 4-6 people (maybe more, it's a hard subject)
-
-where: pref. fixed location; Rockstart, Hackerspace
-requires some commitment: can't miss two meetings or homeworks in a row, pref. rotating moderator
+^ [book] Neural Networks and Deep Learning, by Michael Nielsen
+$ [book] Deep Learning, by Goodfellow, Bengio and Courville
 
 
 ## Resources
