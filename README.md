@@ -10,8 +10,8 @@ Syllabus
 | *week 1* | *2016-09-18* | *intro talk, NN&DL ch1* | *ch1 coding assignments* |
 | *week 2* | *2016-10-02* | *NN&DL^ ch2*            | *webcam demo*            |
 | *week 3* | *2016-10-16* | *NN&DL^ ch3*            | *sk-learn neural nets*   |
-| week 4   | 2016-10-30   | NN&DL^ ch4 + ch5        | intro **TensorFlow**     |
-| week 5   | 2016-11-13   | NN&DL^ ch6              | TensorFlow (part 2)      |
+| *week 4* | *2016-10-30* | *NN&DL^ ch4 + ch5*      | *intro TensorFlow*       |
+| *week 5* | *2016-11-13* | *NN&DL^ ch6*            | *TensorFlow (part 2)*    |
 | week 6   | 2016-11-27   | papers                  | TensorFlow (projects)    |
 | week 7   | 2016-12-11   | papers, projects prgres | TensorFlow (projects)    |
 | week 8   | ...          | ...                     | ...                      |
