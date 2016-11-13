@@ -1,0 +1,26 @@
+2016-10-30, by Martijn
+
+In the last sprint towards the final chapter, we discussed both chapter 4
+and chapter 5.
+
+Chapter 4 shows a somewhat long visual proof of the fact that neural networks
+can learn any (continuous) function from N inputs to M outputs, with the
+approximation precision depending on the number of neurons. Sigmoid neurons
+can approximate step functions with large weights. Pairs of sigmoid neurons
+can therefore approximate bumps with any desired height (output weight).
+Similar arguments can be made for multiple inputs and multiple outputs.
+Therefore, **we can approximate any function**. This is an important property,
+although it doesn't say anything about the ability to learn the function.
+
+It makes sense to learn hierarchies of concepts, since many real-world
+problems consist of hierarchies of concepts. Chapter 5 nonetheless describes
+a fundamental problem for training deep networks: the **unstable gradient
+problem**. Information propagates back from the final layer to previous
+layers, resulting in partial derivatives that are multiplications of many
+partial derivatives in later layers. This often either results in very
+small changes (multiplied `derivative of sigmoid =< 0.25`) or exploding
+changes (multiplied large weights). The problem gets orders of magnitudes
+worse for added layers, slowing down significantly. This is a fundamental
+issue, but nowhere in the book is a solution given except for using much
+more data and compute power. And different structures, as we'll see next
+time.
