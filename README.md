@@ -36,6 +36,15 @@ syllabus, proposal: practical approach, but with deep understanding (not just tr
   https://www.udacity.com/course/deep-learning--ud730 (part of nanodegree ML)
 - [course] Deep Learning & creative applications [2016]:
   https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info
+  
+  
+## Papers
+
+- how it started: [[Hinton 2006|http://www.cs.toronto.edu/~fritz/absps/ncfast.pdf]]: deep belief networks
+- DeepMind & Google papers: [[Atari|https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf]], [[AlphaGo|http://airesearch.com/wp-content/uploads/2016/01/deepmind-mastering-go.pdf]], [[WaveNet|https://arxiv.org/pdf/1609.03499.pdf]]), Building High-level Features Using Large Scale Unsupervised Learning ("Youtube paper"), Vincent Vanhoucke 2012-2015 ("Android papers")
+- Watson (lookup): various techniques combined
+- Turing machine (2014 RNN python output predictor, 2014 NTM)
+- more recent: ICCV 2015 CNN examples http://www.computervisionblog.com/2015/12/iccv-2015-twenty-one-hottest-research.html; more examples in these slide decks: SLAM & geometry, Depth vision & geometry
 
 
 ## Software libraries
