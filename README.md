@@ -36,8 +36,14 @@ syllabus, proposal: practical approach, but with deep understanding (not just tr
   https://www.udacity.com/course/deep-learning--ud730 (part of nanodegree ML)
 - [course] Deep Learning & creative applications [2016]:
   https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info
-  
-  
+- [blogpost] Demystifying Deep Reinforcement Learning [2015]:
+  https://www.nervanasys.com/demystifying-deep-reinforcement-learning/
+- [video lectures] RL Course by David Silver [2015]:
+  https://www.youtube.com/watch?v=2pWv7GOvuf0
+- [blogpost] Differentiable neural computers [2016]:
+  https://deepmind.com/blog/differentiable-neural-computers/
+  (With link to paper behind paywall)
+
 ## Papers
 
 - how it started: [Hinton 2006](http://www.cs.toronto.edu/~fritz/absps/ncfast.pdf): deep belief networks
