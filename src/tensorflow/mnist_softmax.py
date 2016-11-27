@@ -26,7 +26,6 @@ import argparse
 
 # Import data
 from tensorflow.examples.tutorials.mnist import input_data
-
 import tensorflow as tf
 
 FLAGS = None
@@ -36,10 +35,10 @@ def main(_):
   mnist = input_data.read_data_sets(FLAGS.data_dir, one_hot=True)
 
   # Create the model
-  x = tf.placeholder(tf.float32, [None, 784])
-  W = tf.Variable(tf.zeros([784, 10]))
+  x = tf.placeholder(tf.float32, [None, 784]) # input: Any size (# samples), 28*28 px
+  W = tf.Variable(tf.zeros([784, 10]))        # model variables
   b = tf.Variable(tf.zeros([10]))
-  y = tf.matmul(x, W) + b
+  y = tf.matmul(x, W) + b                     # simple regression / 1 neural layer
 
   # Define loss and optimizer
   y_ = tf.placeholder(tf.float32, [None, 10])
@@ -54,9 +53,14 @@ def main(_):
   # So here we use tf.nn.softmax_cross_entropy_with_logits on the raw
   # outputs of 'y', and then average across the batch.
   cross_entropy = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(y, y_))
+  # add operations to the computational graph that will do GD; this calculates
+  # the gradients of cross_entropy automatically (symbolically)
   train_step = tf.train.GradientDescentOptimizer(0.5).minimize(cross_entropy)
 
-  sess = tf.InteractiveSession()
+  # Note: we use an interactive session here, so we don't have to build the
+  # graph on forehand (like in helloworld.py)
+  sess = tf.InteractiveSession() # start C++ backend
+
   # Train
   tf.initialize_all_variables().run()
   for _ in range(1000):
@@ -64,7 +68,7 @@ def main(_):
     sess.run(train_step, feed_dict={x: batch_xs, y_: batch_ys})
 
   # Test trained model
-  correct_prediction = tf.equal(tf.argmax(y, 1), tf.argmax(y_, 1))
+  correct_prediction = tf.equal(tf.argmax(y, 1), tf.argmax(y_, 1)) # booleans
   accuracy = tf.reduce_mean(tf.cast(correct_prediction, tf.float32))
   print(sess.run(accuracy, feed_dict={x: mnist.test.images,
                                       y_: mnist.test.labels}))
