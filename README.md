@@ -43,6 +43,9 @@ syllabus, proposal: practical approach, but with deep understanding (not just tr
 - [blogpost] Differentiable neural computers [2016]:
   https://deepmind.com/blog/differentiable-neural-computers/
   (With link to paper behind paywall)
+- [blogpost] The Unreasonable Effectiveness of Recurrent Neural Networks [2015]
+  http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
 
 ## Papers
 
