@@ -16,7 +16,8 @@ Syllabus
 | week 7   | 2016-12-11   | DL$ ch10, RNNs, papers  | TensorFlow (projects)    |
 | week 8   | 2016-12-25   | *(skip)*                |                          |
 | week 9   | 2017-01-08   | DL$ ch11, papers        | TensorFlow (projects)    |
-| week 10  | 2017-01-22   | DL$ ch12 (apps), papers | Projects presentations   |
+| week 10  | 2017-01-22   | DL$ ch12 (apps), papers | Projects presentations,  |
+|          |              |                         | cocktails                |
 
 ^ [book] Neural Networks and Deep Learning, by Michael Nielsen
 $ [book] Deep Learning, by Goodfellow, Bengio and Courville
