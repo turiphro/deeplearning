@@ -5,19 +5,18 @@ We're doing a biweekly study group about **Deep Learning** in Amsterdam: 1 eveni
 
 Syllabus
 --------
-| Session  | Date         | Theory                  | Coding                   |
-| -------- | ------------ | ----------------------- | ------------------------ |
-| *week 1* | *2016-09-18* | *intro talk, NN&DL ch1* | *ch1 coding assignments* |
-| *week 2* | *2016-10-02* | *NN&DL^ ch2*            | *webcam demo*            |
-| *week 3* | *2016-10-16* | *NN&DL^ ch3*            | *sk-learn neural nets*   |
-| *week 4* | *2016-10-30* | *NN&DL^ ch4 + ch5*      | *intro TensorFlow*       |
-| *week 5* | *2016-11-13* | *NN&DL^ ch6*            | *TensorFlow (part 2)*    |
-| *week 6* | *2016-11-27* | *discussion*            | *TensorFlow (projects)*  |
-| week 7   | 2016-12-11   | DL$ ch10, RNNs, papers  | TensorFlow (projects)    |
-| week 8   | 2016-12-25   | *(skip)*                |                          |
-| week 9   | 2017-01-08   | DL$ ch11, papers        | TensorFlow (projects)    |
-| week 10  | 2017-01-22   | DL$ ch12 (apps), papers | Projects presentations,  |
-|          |              |                         | cocktails                |
+| Session  | Date         | Theory                  | Coding                       |
+| -------- | ------------ | ----------------------- | ---------------------------- |
+| *week 1* | *2016-09-18* | *intro talk, NN&DL ch1* | *ch1 coding assignments*     |
+| *week 2* | *2016-10-02* | *NN&DL^ ch2*            | *webcam demo*                |
+| *week 3* | *2016-10-16* | *NN&DL^ ch3*            | *sk-learn neural nets*       |
+| *week 4* | *2016-10-30* | *NN&DL^ ch4 + ch5*      | *intro TensorFlow*           |
+| *week 5* | *2016-11-13* | *NN&DL^ ch6*            | *TensorFlow (part 2)*        |
+| *week 6* | *2016-11-27* | *discussion*            | *TensorFlow (projects)*      |
+| week 7   | 2016-12-11   | DL$ ch10, RNNs, papers  | TensorFlow (projects)        |
+| week 8   | 2016-12-25   | *(skip)*                |                              |
+| week 9   | 2017-01-08   | DL$ ch11, papers        | TensorFlow (projects)        |
+| week 10  | 2017-01-22   | DL$ ch12 (apps), papers | Projects show-off, cocktails |
 
 ^ [book] Neural Networks and Deep Learning, by Michael Nielsen
 $ [book] Deep Learning, by Goodfellow, Bengio and Courville
