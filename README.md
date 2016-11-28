@@ -71,6 +71,32 @@ syllabus, proposal: practical approach, but with deep understanding (not just tr
 - Caffe http://caffe.berkeleyvision.org/
 
 
+## Datasets
+
+**Images**
+- MNIST (60k hand-written digits; 28x28px) http://yann.lecun.com/exdb/mnist/
+- CIFAR-10/CIFAR-100 (60k, 10/100 classes; 32x32pxRGB) http://www.cs.toronto.edu/%7Ekriz/cifar.html
+- SVHN public Street View House Numbers (600k; box+label per digit) http://ufldl.stanford.edu/housenumbers/
+- Image-net (16M, 20k classes) or subset ILSVRC (3M; 1000 classes) http://image-net.org/
+- NYU depth v2 (fixed scenes) http://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html
+- KITTI (data from car driving) http://www.cvlibs.net/datasets/kitti/ (have more code and datasets)
+- more datasets: http://www.cvlibs.net/links.php?page=Main+page
+
+**Language**
+- Amazon Reviews (35M; 2015) https://snap.stanford.edu/data/web-Amazon.html
+- Movielens (20M) http://grouplens.org/datasets/movielens/
+- WordNet, per language http://www.certifiedchinesetranslation.com/openaccess/WordNet/
+- Google Books n-grams (2TB of txt) https://storage.googleapis.com/books/ngrams/books/datasetsv2.html
+- TIMIT acoustic corpus https://catalog.ldc.upenn.edu/ldc93s1
+- NetFlix Price (recommender systems) http://academictorrents.com/details/9b13183dc4d60676b773c9e2cd6de5e5542cee9a
+
+**Other**
+- Kaggle datasets https://www.kaggle.com/datasets
+- AWS datasets overview https://aws.amazon.com/datasets/
+- EU open datasets https://data.europa.eu/euodp/en/data
+- Wikipedia listing per data type https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
+
+
 ## Ideas for Projects
 
 - self-learning Mario or Atari games;
