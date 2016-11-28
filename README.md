@@ -41,6 +41,8 @@ syllabus, proposal: practical approach, but with deep understanding (not just tr
   https://www.nervanasys.com/demystifying-deep-reinforcement-learning/
 - [video lectures] RL Course by David Silver [2015]:
   https://www.youtube.com/watch?v=2pWv7GOvuf0
+- [blogpost series] RL + DNNs in TensorFlow [2016], multiple posts:
+  https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0#.967pe8962
 - [blogpost] Differentiable neural computers [2016]:
   https://deepmind.com/blog/differentiable-neural-computers/
   (With link to paper behind paywall)
