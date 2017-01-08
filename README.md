@@ -13,9 +13,9 @@ Syllabus
 | *week 4* | *2016-10-30* | *NN&DL^ ch4 + ch5*      | *intro TensorFlow*           |
 | *week 5* | *2016-11-13* | *NN&DL^ ch6*            | *TensorFlow (part 2)*        |
 | *week 6* | *2016-11-27* | *discussion*            | *TensorFlow (projects)*      |
-| week 7   | 2016-12-11   | DL$ ch10, RNNs, papers  | TensorFlow (projects)        |
-| week 8   | 2016-12-25   | *(skip)*                |                              |
-| week 9   | 2017-01-08   | DL$ ch11, papers        | TensorFlow (projects)        |
+| *week 7* | *2016-12-11* | *DL$ ch10, RNNs, papers*| *TensorFlow (projects)*      |
+| *week 8* | *2016-12-25* | *(skip)*                |                              |
+| *week 9* | *2017-01-08* | *DL$ ch11, papers*      | *run existing projects*      |
 | week 10  | 2017-01-22   | DL$ ch12 (apps), papers | Projects show-off, cocktails |
 
 ^ [book] Neural Networks and Deep Learning, by Michael Nielsen
