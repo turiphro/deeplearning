@@ -20,7 +20,7 @@ Syllabus
 
 ^ [book] Neural Networks and Deep Learning, by Michael Nielsen
 
-$ [book] Deep Learning, by Goodfellow, Bengio and Courville
+$ [book] Deep Learning, by Goodfellow, Bengio and Courville ([full reading notes](deeplearningbook_notes.md))
 
 
 ## Resources
