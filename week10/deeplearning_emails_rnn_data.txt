@@ -1,0 +1,482 @@
+To be sure, it's a whole bunch of related algorithms to train "deep" networks (with many hidden layers), so it highly depends on the exact structure of the network. People seem to layer different types of neural nets on top of each other, allowing further abstractions. So there's not a single algorithm that works for all network setups, in simple cases backpropagation might even work:
+
+http://en.wikipedia.org/wiki/Deep_learning#Deep_learning_in_artificial_neural_networks
+
+Some categorisation: http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf
+
+Deep Mind, the company bought by Google for about half a billion (yes), used reinforcement learning to train the networks:
+
+https://d1x0mwiac2rqwt.cloudfront.net/fe14d0cd886460259b7996e9d37000ce/as/1312.5602v1.pdf
+
+So I guess it depends on how complicated you want to make it ;-)
+It seems to work really great for vision problems (since human vision works similarly with many layers of abstraction in feature detection towards object recognition), and language understanding, but I don't know about current results for analysing less-human data.
+
+
+Een populistische hackdag met de twee meestgevraagde activiteiten:
+
+1. start van een Deep Learning track.
+    idee is eens in de X weken 's avonds (doordeweeks?) samen te komen
+    en - met huiswerk - door een boek en/of course heen te werken.
+    -> aftrap en overleg over setup
+
+2. Food Hacking snack
+    work hard, play hard.
+    ons eerste vieruurtje met molecular cooking-recept.
+ 
+RSVP nu: http://doodle.com/poll/4whucfga52r7fthx
+
+De Deep Learning track is natuurlijk open voor meer enthusiastelingen.
+Stuur potentieeltjes even langs de huidige groep. Mijn idee is om de
+track over een half jaar uit te spreiden en een minimale commitment in
+huiswerk en voorbereiding vergt om het leerzaam voor allen te maken.
+
+Groetjes,
+Martijn
+
+
+Onze Deep Learning & Food Hacking hackday is op:
+
+Zondag 18 september, 13:00 - 19:00+,
+bij Robrecht, nachtwachtlaan 245 (Rembrandtpark)
+
+Het plan:
+
+Starten van een Deep Learning study group: diepgaande introductie met
+een praktische insteek en prototyping in moderne DL libraries, maar inclusief
+theoretische (=mathematische) introductie. Omdat niemand van ons een DL expert
+is gaan we vooral zelf uitvogelen welke online resources er beschikbaar zijn.
+Ik heb alvast een begin gemaakt in een nieuwe github repo:
+
+https://github.com/gmtahackdays/deeplearning/
+
+Laten we GitHub gebruiken voor de organisatie: voorstellen, voorbeeldcode en
+documentatie, resources, en discussies (issues).
+
+Dus: 18 sept inventarisatie van wat de verwachtingen zijn, hoe we het praktisch
+gaan aanpakken en een beginnetje maken met deep learning.
+
+
+Voorbereiding:
+
+Een beetje inlezen in DL kan geen kwaad.
+
+* Denk na over waarom, hoeveel tijd, en praktische opzet.
+* Deep Learning Book - Introduction (25p)
+* optioneel: NN & DL Book - Chapter 1 (48p) -> incl. programming; make a (gentle) start
+
+
+Also, Molecular Cooking vieruurtje: work hard, play hard.
+
+
+So be there or be carbonated mojito sphere!
+
+Groetjes,
+Martijn
+
+
+REMINDER:
+
+Morgen, zondag 18 september, 13:00 - 19:00,
+bij Robrecht, nachtwachtlaan 245 (Rembrandtpark)
+
+Het plan (copy-paste):
+
+Starten van een Deep Learning study group: diepgaande introductie met
+een praktische insteek en prototyping in moderne DL libraries, maar inclusief
+theoretische (=mathematische) introductie. Omdat niemand van ons een DL expert
+is gaan we vooral zelf uitvogelen welke online resources er beschikbaar zijn.
+Ik heb alvast een begin gemaakt in een nieuwe github repo:
+
+https://github.com/gmtahackdays/deeplearning/
+
+Laten we GitHub gebruiken voor de organisatie: voorstellen, voorbeeldcode en
+documentatie, resources, en discussies (issues).
+
+Dus: 18 sept inventarisatie van wat de verwachtingen zijn, hoe we het praktisch
+gaan aanpakken en een beginnetje maken met deep learning.
+
+Programma:
+
+- intro ppt martijn
+- kijken intropraatje deep learning (1h)
+- NN&DL chapter 1 bespreking + programming exercises
+- food hacking
+
+Voorbereiding:
+
+Een beetje inlezen in DL kan geen kwaad.
+
+* Denk na over waarom, hoeveel tijd, en praktische opzet.
+* NN & DL Book - Chapter 1 (48p) -> until programming; make a (gentle) start
+* optional: Deep Learning Book - Introduction (25p)
+
+Also, Molecular Cooking vieruurtje: work hard, play hard.
+
+So be there or be carbonated mojito sphere!
+
+Tot morgen,
+Martijn
+
+
+Hey deep learners,
+
+goede kick-off eergisteren! Ik heb een korte samenvatting naar de repo gepushed.
+Laten we er een mooie reeks van gaan maken.giga
+
+Na het extraheren van de maximum likelihood in de availability matrix hebben we een
+vast moment voor de Deep Learning Days:
+
+zondagen om 13:00
+
+de volgende deep learning day is dan ook op:
+zondag 2 oktober om 13:00  (lokatie wordt aan gewerkt)
+
+Voorbereiding:
+- lees NN&DL book chapter 1 + chapter 2
+  chapter 1 hebben veel van ons al doorgelezen en vraagt alleen code te draaien,
+  chapter 2 is relatief kort maar wel enige wiskunde. Probeer ook alvast de kleine
+  programmeeropdracht te doen.
+
+Programma voor 2 oktober:
+- korte talk van Hinton
+- korte bespreking chapter 1 + 2
+- aan de slag met de programmeeropdracht, neurowalk demo (code) testen, neuro talk, etc.
+
+Tot dan!
+
+Groetjes,
+Martijn
+
+
+Hoi dieplerenden,
+
+Hierbij een reminder voor onze tweede Deep Learning sessie komende zondag.
+
+Wanneer: zondag 2 oktober om 13:00
+Waar: Rockstart, Herengracht 182 (tussen de dam en de westerkerk)
+
+Voorbereiding:
+- lees NN&DL book chapter 1 + chapter 2
+- denk na over een pet project om DL in de praktijk te brengen
+
+Succes met voorbereiden en tot zondag! ;)
+
+Groetjes,
+Martijn
+
+
+PS het is natuurlijk geen probleem als je er niet de hele zondagmiddag bij kan zijn;
+ maar laten we proberen iig 2 uur (om de week) bij elkaar te komen en daarna
+ zien waar de rest van de middag op uitloopt
+ 
+Groetjes,
+Martijn
+
+
+
+Hey deep learners,
+
+Vandaag hebben we sessie 2 van ons Deep Learning-avontuur beleefd.
+Hier is de samenvatting, en hier de slides.
+
+De volgende DL dag is op zondag 16 september 13:00,
+weer bij Rockstart @ Herengracht 182.
+
+Voorbereiding:
+- lees NN&DL book chapter 3. Daniel gaat het dan met ons doornemen.
+
+Mocht je al een beetje achterlopen of een sessie missen, reserveer dan wat extra tijd om
+bij te werken. We willen graag snel door de basics heen zodat we aan de slag kunnen met
+praktische projecten, en elkaar toffe demo's kunnen laten zien! En ook als het niet gelukt
+is bij te werken is het natuurlijk nuttig om er bij te zijn.
+
+Tot over twee weken!
+
+Groetjes,
+Martijn
+
+
+PS code voor de live demo van vandaag (live webcam-classificatie) staat ook online:
+
+
+
+Hi deep learners,
+
+Komende zondag 16 oktober vanaf 13:00 vindt de derde Deep Learning
+sessie plaats bij Rockstart, Herengracht 182!
+
+Dit gaan we doen:
+- bespreken NN&DL chapter 3, o.l.v. Daniel  <- huiswerk
+- coding: neural nets met sk-learn (de-facto machine learning library, in Python),
+  vergelijk neural nets met andere ML algorithmes
+
+
+Agenda next weeks
+---------------------------
+Dit is mijn voorstel voor de komende paar sessies. We zijn komende maand door
+het boek heen en het lijkt me leuk om daarna met TensorFlow aan de
+slag te gaan!
+Session 	Theory 	Coding
+week 1 	intro talk, NN&DL ch1 	ch1 coding assignments
+week 2
+
+	NN&DL ch2
+
+	webcam demo
+
+week 3 	NN&DL ch3 	sk-learn neural nets      <- this week
+week 4 	NN&DL ch4 + ch5 	present project ideas
+week 5 	NN&DL ch6 	intro TensorFlow
+week 6 	papers 	TensorFlow (projects)
+week 7 	papers, projects prgres 	TensorFlow (projects)
+week 8 	... 	...
+beyond? 	DL book ch6, ch9-ch12 	Google DL course (TensorFlow)
+
+Tot zondag!
+
+Groetjes,
+Martijn
+
+
+Hoi!
+
+Hierbij een korte samenvatting van zondag, en de slides.
+
+De volgende sessie is op zondag 30 oktober,
+bij Onno: Tobias Asserlaan 207, Diemen-Noord
+
+We bespreken dan hoofdstuk 4 + 5, twee korte hoofdstukjes die worden samengevat door Onno.
+Daarna gaan we aan de slag met TensorFlow, en volgen een korte introductie-tutorial.
+
+Be there or be ■! Ook als je niet bij bent met het boek ;) Samenvattingen lezen kan in 20min.
+
+Groetjes,
+Martijn
+
+
+
+Hallo daar!
+
+Deze zondag, 30 oktober 13:00, bij Onno (Tobias Asserlaan 207, Amsterdam / Diemen Noord):
+- Onno bespreekt met ons chapter 4 + chapter 5
+- intro TensorFlow
+
+
+Maar Martijn, ik ben helemaal niet bij! Het is te veel!
+Neem deze shortcut: lees ch1 + ch2, en de samenvatting van ch3. Skip ch4.
+Onno gaat ch5 uitleggen.
+Zelfs als dat niet is gelukt is het nuttig om bij de introductie TensorFlow te zijn ;-)
+
+Maar Martijn, ik ben wel gewoon netjes bij! Het is te simpel!
+Super! Ga maar vast dit boek lezen.
+
+Tot zondag!
+
+Groetjes,
+Martijn
+
+
+Hoi!
+
+Deze zondag om 13:00, bij mij thuis - Zeeburgerdijk 547, Amsterdam (naast Flevopark, einde van tram 7 + 14):
+- Paul bespreekt met ons chapter 6, het laatste hoofdstuk
+- TensorFlow hacking
+
+Na de succesvolle introductie in TensorFlow vorige keer kunnen we deze week
+een stapje verder, en wellicht al beginnen met een eigen DL project!
+
+Kijk ook alvast rond naar Deep Learning papers die je interessant lijken.
+Vanaf volgende sessie kunnen we individueel papers gaan voorbereiden
+en met de groep bespreken, om een idee te krijgen van wat er nu daadwerkelijk
+wordt gebruikt in de academie.
+
+Tot zondag!
+
+Groetjes,
+Martijn
+
+
+Hoi!
+
+Afgelopen zondag bespraken we chapter 6, het laatste hoofdstuk van het NN&DL boek!
+We weten eindelijk wat deep learning is. We hebben meerdere structuren
+besproken die voor diepe netwerken zijn verzonnen, en zijn verder gegaan
+met TensorFlow (Tom heeft Linux! En we weten wie er dood ging op de Titanic).
+
+Gemist? Zie deze samenvatting van vorige sessie, en deze van vandaag.
+
+Voor de komende weken staan twee dingen op het programma:
+
+    Lezen van papers en andere verdieping:
+    wat voor diversiteit aan modellen wordt er echt gebruikt?
+    Praktische projecten met TensorFlow
+
+
+Huiswerk:
+
+1. maak de TensorFlow intro tutorial af:
+    basics, MNIST en/of MNIST Conv nets
+
+2. kies een paper: de komende drie sessies komt iedereen aan de beurt ;)
+    kies een paper uit dat je interessant vindt, en leidt de groep er in zo'n 3-5
+    slides doorheen. Mag heel kort, gaat erom dat we een idee krijgen van
+    de diversiteit, en de echte klassiekers voorbij zien komen!
+Ideeen voor papers:
+- GoogleMind papers;
+- Watson papers;
+- breakthrough papers;
+- kijk hier op de github repo!
+
+Reageer even naar de groep welke paper je gaat voorbereiden (en voor
+welke sessie), zodat we geen dubbel werk doen. Voor komende zondag
+hebben we al een aantal papers nodig, dus eerder = beter.
+
+Tot over twee weken!
+
+Groetjes,
+Martijn
+
+
+Hoihoi,
+
+Deze zondag: Deep Learning-sessie, vanaf 13:00 bij Daniel - Marnixstraat 229A.
+
+Zoek nog even een paper uit en laat weten welke je voor wanneer (tip: deze zondag!)
+gaat voorbereiden. En maak de TensorFlow intro tutorial (basics, MNIST en/of MNIST Conv nets).
+
+Tot zondag!
+
+Groetjes,
+Martijn
+
+
+Hoi!
+
+Gisteren vond onze 6de Deep Learning-sessie plaats bij Daniel. We hebben besloten nog 3 sessies te doen, tot eind januari (skip kerst):
+​
+Het lijkt me leuk daarin het volgende nog voor elkaar te krijgen:
+
+    theorie achter RNNs en andere structuren
+    -> ch10 in DeepLearningBook
+    -> ch11+12 in DLbook: theorie achter de praktijk
+
+    papers doorwerken (een handjevol)
+    -> lijstje
+
+    projecten: iets praktisch met TensorFlow, om enige ervaring te krijgen
+    -> datasets op onze github
+    -> perfecte project bestaat niet, doel is om iets werkend te krijgen ;)
+
+
+Zondag 11 dec
+
+    Locatie: Paul, Abcoude (we treinen samen om 12:30 vanaf Muiderpoort/CS)
+
+    Huiswerk:
+    - read this intro
+    - try DLbook ch11 (RNNs)
+
+    Plan:
+    - 3 papers bespreken (Daniel, Martijn, Paul)
+    - RNNs bespreken (ch11)
+    - coding!
+
+Tot dan!
+
+Groetjes,
+Martijn
+
+
+Om 13:00 bij Paul, adres = Achter de kerken 35, Abcoude.
+
+Ik neem de trein vanaf CS van 12:49, via Muiderpoort en Amstel:
+
+​Laat even weten of je meereist en vanaf waar.
+
+Het plan voor vandaag is:
+
+    Huiswerk:
+    - read this intro
+    - try DLbook ch11 (RNNs)
+
+    Plan:
+    - 3 papers bespreken (Daniel, Martijn, Paul)
+    - RNNs bespreken (ch11)
+    - coding!
+
+
+Groetjes,
+Martijn
+
+
+Hoi!
+
+Morgen om 13:00 bij mij thuis (Zeeburgerdijk 547), trotseren we allemaal de kou voor de een-na-laatste Deep Learning-sessie. Dit staat er op het programma:
+
+Theorie:
+* Bespreken papers DeepMind: Atari + AlphaGo, door Martijn
+* Bespreken andere papers: ben even kwijt door wie?
+-> Zoek een paper uit, probeer de grote lijnen te volgen, en maak wat slides!
+
+Praktijk:
+* Iedereen probeert een bestaand DL project te draaien;
+  we hebben er de afgelopen maanden best een aantal gezien, kies er 1 die je vet vond,
+  en probeer hem met eigen data te draaien:
+  - Obama Speech Generator
+  - image annotator / NeuralTalk
+  - image QA
+  - WaveNet
+  - DeepDreaming and infinite zoom
+  - Style transfer
+  - etc
+* Eind v/d middag geven we allemaal een demo van het gekozen project.
+
+
+En voor de laatste sessie (22 januari) leek het me leuk het diepe avontuur af te sluiten met:
+* Samenvattend overzicht,
+  incl. bespreken enkele hoofdstukken uit: http://www.DeepLearningBook.org/
+  door wie er iets uit heeft gelezen; ik kan er een paar doen, Daniel ook, en wellicht meer
+  vrijwilligers.
+* Chef Watson-inspired Cocktails: https://www.ibmchefwatson.com
+
+
+Tot morgen!
+
+Groetjes,
+Martijn
+
+
+Hoi diepe dromers,
+
+Gisteren hebben we twee papers besproken van Google DeepMind, over Atari games en AlphaGo. We hebben ook met Google's DeepDreaming software gespeeld.
+
+De slides zijn hier beschikbaar. Een uitgebreide samenvatting staat hier.
+
+Gemist? Deze presentatie (door de DeepMind-medewerker achter AlphaGo) geeft ook een goed overzicht. Leuk voor tijdens de lunch ;)
+
+Over twee weken: Chef Watson Cocktails om het af te sluiten!
+En bespreking van een deel van het Deep Learning book. Laat
+even weten als je zelf nog een vette paper wilt bespreken.
+
+Groetjes,
+Martijn
+
+
+Hoi!
+
+Morgen is het zover: onze laatste Deep Learning-middag. Laten we er een mooie afsluiter van maken!
+
+Zondag 13:00 bij mij thuis, Zeeburgerdijk 547.
+
+Het plan:
+1. Bespreken deel van Deep Learning Book = korte samenvatting van de hele reeks
+2. Chef Watson Cocktails!
+
+Als je thuis nog sterke drank of andere random ingrediënten hebt staan, neem het mee. Probeer Chef Watson Cocktails hier: https://twist.ibmchefwatson.com/
+
+Tot morgen!
+
+Groetjes,
+Martijn
+
+PS als je nog een coole paper wilt bespreken (bijvoorbeeld over Watson), neem wat slides mee!
