@@ -16,9 +16,10 @@ Syllabus
 | *week 7* | *2016-12-11* | *DL$ ch10, RNNs, papers*| *TensorFlow (projects)*      |
 | *week 8* | *2016-12-25* | *(skip)*                |                              |
 | *week 9* | *2017-01-08* | *DL$ ch11, papers*      | *run existing projects*      |
-| week 10  | 2017-01-22   | DL$ ch12 (apps), papers | Projects show-off, cocktails |
+| *week 10* | *2017-01-22* | *DL$ ch12 (apps), papers* | *Projects show-off, cocktails* |
 
 ^ [book] Neural Networks and Deep Learning, by Michael Nielsen
+
 $ [book] Deep Learning, by Goodfellow, Bengio and Courville
 
 
@@ -46,7 +47,7 @@ syllabus, proposal: practical approach, but with deep understanding (not just tr
 - [blogpost] Differentiable neural computers [2016]:
   https://deepmind.com/blog/differentiable-neural-computers/
   (With link to paper behind paywall)
-- [blogpost] The Unreasonable Effectiveness of Recurrent Neural Networks [2015]
+- [blogpost] RNNs: The Unreasonable Effectiveness of Recurrent Neural Networks [2015]
   http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
 
