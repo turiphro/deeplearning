@@ -11,6 +11,7 @@ I read the majority of the Deep Learning Book, which consists of a general part
 (I), practical deep learning networks (II), and more ideas currently explored
 in the research literature (III). The book is recent (2016), very clear and
 extensive, and has many more details than Nielson's introduction book.
+Full notes can be found in this file: [[../deeplearningbook_notes.md]].
 
 Part I is mainly a refreshment of math and the notation as used in the book,
 and also features some practical issues with math on the computer. Underflow
