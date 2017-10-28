@@ -3,5 +3,6 @@ matplotlib
 scikit-learn==0.18.rc2
 scikit-neuralnetwork
 Theano
+mxnet==0.11.0
 https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.11.0rc1-cp35-cp35m-linux_x86_64.whl # change for your OS
-cv2 # might need to compile (use hub.docker.com/turiphro/opencvpy)
+cv2 # might need to compile (or run code inside hub.docker.com/turiphro/opencvpy)
